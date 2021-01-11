@@ -15,6 +15,7 @@ This is a deep learning demo app in Flutter .
 
 - <b>Model Summary </b>
 Model: "sequential"
+<p>
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -36,6 +37,7 @@ Total params: 424,810
 Trainable params: 424,810
 Non-trainable params: 0
 _________________________________________________________________
+</p>
 
 - Tool & Technologies : Tensorflow , Tflite , Flutter ,Dart , Emulator 
 
