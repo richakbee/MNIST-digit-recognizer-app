@@ -42,7 +42,7 @@ Non-trainable params: 0<br>
 _________________________________________________________________
 </p>
 
-- <b>Tool & Technologies </b>: Tensorflow , Tflite , Flutter ,Dart , Emulator 
+- <b>Tool & Technologies </b>: Tensorflow , Tflite , Flutter ,Dart , Python , Convolution neural network , Emulator & Android studio
 
 - <b>#shout out to </b> https://github.com/am15h/tflite_flutter_plugin for tflite_flutter plugin
 - <b> UI inspiration & credits </b> https://github.com/PuzzleLeaf 
