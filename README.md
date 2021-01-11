@@ -5,8 +5,31 @@ This is a deep learning demo app in Flutter .
 <img src="https://github.com/richakbee/MNIST-digit-recognizer-app/blob/master/screenshotImagePage2.png" width="200" height="400" />
 
 # Draw Page
-<img src="https://github.com/richakbee/MNIST-digit-recognizer-app/blob/master/screenshotsImagePage.png" width="200" height="400" />
+<div class="row">
+  <div class="column">
+   <img src="https://github.com/richakbee/MNIST-digit-recognizer-app/blob/master/screenshotsImagePage.png" width="200" height="400" />
+  </div>
+  <div class="column">
+    <img src="https://github.com/richakbee/MNIST-digit-recognizer-app/blob/master/screenshotDrawPage.png" width="200" height="400" />
+  </div>
+  <div class="column">
+  <img src="https://github.com/richakbee/MNIST-digit-recognizer-app/blob/master/screenshotsImagePage2.png" width="200" height="400" />
 
-<img src="https://github.com/richakbee/MNIST-digit-recognizer-app/blob/master/screenshotDrawPage.png" width="200" height="400" />
+  </div>
+</div>
 
-<img src="https://github.com/richakbee/MNIST-digit-recognizer-app/blob/master/screenshotsImagePage2.png" width="200" height="400" />
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
