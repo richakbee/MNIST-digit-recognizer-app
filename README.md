@@ -13,7 +13,7 @@ This is a deep learning demo app in Flutter .
 
 - <b>Data set </b>:http://yann.lecun.com/exdb/mnist/
 
-- <b>Model Accuracy </b> 99.8& on Training & 99.1% on Validation 
+- <b>Model Accuracy </b> 99.8%  on Training & 99.1% on Validation 
 
 
 - <b>Model Summary </b>
